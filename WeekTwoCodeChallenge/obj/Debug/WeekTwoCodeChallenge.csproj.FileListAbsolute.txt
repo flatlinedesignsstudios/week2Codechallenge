@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\WeekTwoCodeChallenge\bin\Debug\WeekTwoCodeChallenge.exe.config
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\WeekTwoCodeChallenge\obj\Debug\WeekTwoCodeChallenge.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\WeekTwoCodeChallenge\bin\Debug\WeekTwoCodeChallenge.exe
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\WeekTwoCodeChallenge\bin\Debug\WeekTwoCodeChallenge.pdb
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\WeekTwoCodeChallenge\obj\Debug\WeekTwoCodeChallenge.exe
+C:\Users\Technologist\Documents\GitHub\Disemvoweler\WeekTwoCodeChallenge\obj\Debug\WeekTwoCodeChallenge.pdb
